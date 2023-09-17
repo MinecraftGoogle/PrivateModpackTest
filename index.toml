@@ -41,6 +41,11 @@ hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "b2596dec9111b739cd6b78eef860b91f272a6d74d1b7dc8e35d2c156f5bcd781"
 metafile = true
