@@ -6,6 +6,46 @@ hash = "14cb523f130dc03bd06e24a448d98ef938c208de6665a4c8e7f26748f910f5de"
 metafile = true
 
 [[files]]
+file = "mods/create-encased.pw.toml"
+hash = "7da8f20a971b6bbdc0a4c92972c809a2310cb1a18f013f43ee3dcd68425d1ebf"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "ce5c35b86c6728752b6c6529e3e73e8f34981931843a1174c0c065ca210da2a9"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "96827be78ddfe5a25f3cf7ceb15f306b788d38d1b4a867e1b82ec39eb489d539"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "845f5da2a11ed1f90377ea66a35a4fb17c7e1f058d4144295784e05046a80c75"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "139f48f7adbc846d5b33138e1b823ef3541ceee2c9addd2684f778d6c22dfd2c"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "b2596dec9111b739cd6b78eef860b91f272a6d74d1b7dc8e35d2c156f5bcd781"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
