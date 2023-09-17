@@ -1,0 +1,13 @@
+name = "Auto Restart"
+filename = "AutoRestart-1.20.1-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/N93mhFhT/versions/h5ynDlL7/AutoRestart-1.20.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "cf3ca288e36698b154da648e6013a7f4585e9a3f"
+
+[update]
+[update.modrinth]
+mod-id = "N93mhFhT"
+version = "h5ynDlL7"
