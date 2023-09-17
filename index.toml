@@ -6,6 +6,16 @@ hash = "14cb523f130dc03bd06e24a448d98ef938c208de6665a4c8e7f26748f910f5de"
 metafile = true
 
 [[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "5f58c33c989fcd74930522db023d903afe33505d08df754cb5a6e063b713a9c6"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "1f8bbe54ba05333f5e0ae8fb5707899efc94e8a66d91a0d5b1e26823ec021ee2"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "7da8f20a971b6bbdc0a4c92972c809a2310cb1a18f013f43ee3dcd68425d1ebf"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
 metafile = true
 
 [[files]]
