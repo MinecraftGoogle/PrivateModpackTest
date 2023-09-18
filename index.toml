@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "3a3828722a362197100947dc3ecba569333b93a35bc728e7f0c71e09ea748299"
+hash = "4b563b8d625bbe31b8d1076b460a3ced6425cecfa79da8debe1189e271272ef3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/main.txt"
-hash = "1f331f8d868ec219e1e7ff5d48fa3e7b57527e3315eed2b1a450c883e8e44e66"
+hash = "38cb7ad06da38bebe1ae3851d713dba39a9a00a904f21a627abe3e7948bb8f94"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -51,10 +51,6 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 [[files]]
 file = "index.html"
 hash = "b83e3e5c8f9633a87fbfaa33dfdc5ad0d75fddbb734213ef8773cb0da607b249"
-
-[[files]]
-file = "mainmenutext.txt"
-hash = "2b8a5acb1ff94dc644e5dc95180212b238689718746b326c19cbec695b477332"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"

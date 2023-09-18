@@ -2,8 +2,13 @@ Hello welcome to this modpack! :)
 what happens if i have multiple lines in this txt file
 
 |=-Changelog-=|
+
+Fixed fancy menu?
+
+-old
 Changed the changelog text
 added some mods earlier
 removed cat spam in changelog
 addeed fancy menu
 removed some mods
+-
