@@ -1,1 +1,2 @@
-Hello welcome to this modpack :)
+Hello welcome to this modpack! :)
+what happens if i have multiple lines in this txt file
