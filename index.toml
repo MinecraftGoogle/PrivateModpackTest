@@ -1,6 +1,62 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "3a3828722a362197100947dc3ecba569333b93a35bc728e7f0c71e09ea748299"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/main.txt"
+hash = "1f331f8d868ec219e1e7ff5d48fa3e7b57527e3315eed2b1a450c883e8e44e66"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "index.html"
+hash = "b83e3e5c8f9633a87fbfaa33dfdc5ad0d75fddbb734213ef8773cb0da607b249"
+
+[[files]]
+file = "mainmenutext.txt"
+hash = "2b8a5acb1ff94dc644e5dc95180212b238689718746b326c19cbec695b477332"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
@@ -23,11 +79,6 @@ metafile = true
 [[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "5f58c33c989fcd74930522db023d903afe33505d08df754cb5a6e063b713a9c6"
-metafile = true
-
-[[files]]
-file = "mods/bounced.pw.toml"
-hash = "a1969d8a60a51d8fe1d26d0229aabcb28e3cca2c325cee28073509bf6595710c"
 metafile = true
 
 [[files]]
@@ -197,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
+hash = "cc3c203ad0ac984a270a5850c7c1b03b2366557a63f5c3e213a0215f9f5b195e"
 metafile = true
 
 [[files]]
@@ -213,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dae4dd79e8db2daea3ec318b456fc0e30f529b9acca0a444b4ce7d1debfca143"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "f83fe8bb440c1c6a09e04a6526814c4d835acc4b19d4ef4777d1acdbe6cbcd65"
 metafile = true
 
 [[files]]
@@ -268,14 +314,4 @@ metafile = true
 [[files]]
 file = "mods/xaeroarrowfix.pw.toml"
 hash = "84ada83198fe1bc2c7ad92a216962175e9c7b67ec0f1ee18def902a6721bc3e8"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "702d915e0f73f8897043a096d62d11717e02707ca2a82336e9daee3fe0b54a11"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "2cfbef78ef28591ebb47ae979dc507d70c9b7d52f2c78e3034a61d4732a2bb68"
 metafile = true

@@ -1,0 +1,171 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} / 2 / 2 - 100","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"} / 2 - 10","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = -24
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:376322
+  x = 24
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:376322
+  x = 126
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:376322
+  x = 24
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:376322
+  x = 24
+  action = movebutton
+  y = 24
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 330
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 526751ce-5132-455f-ad7a-5bb513c674b41695039280871
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 122
+  action = deep_customization_element:title_screen_branding
+  actionid = 0afc4055-95a6-47de-af84-f6f13ca80e241695039280876
+  y = 477
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 700
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = c9eee277-d1a2-42d4-9f40-520d597289891695039280876
+  y = 509
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 567
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 377a7682-68a9-4c57-8636-ce72f4ad6b441695039280876
+  y = 232
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 327
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = e11a907e-c748-4e65-8496-0fcc043b3f5d1695039280876
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 2fd59ec6-6cc5-4a9d-a436-aad856a05f521695039280876
+  y = 0
+  height = 30
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"( {"placeholder":"guiheight"} - ( {"placeholder":"guiheight"} / 2 ) ) - 20 ","decimal":"true"}}
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = https://minecraftgoogle.github.io/PrivateModpackTest/mainmenutext.txt
+  advanced_posx = {"placeholder":"calc","values":{"expression":"( ( ( {"placeholder":"guiwidth"} / 2 ) + {"placeholder":"guiwidth"} ) / 2 ) - ( {"placeholder":"elementwidth","values":{"id":"4eee7201-9d79-464e-a8d7-075f7d9a077a1695041688266"}} / 2 ) ","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"( {"placeholder":"guiwidth"} - ( {"placeholder":"guiwidth"} / 2 ) ) - 20 ","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"} / 2 - 10","decimal":"true"}}
+  source_mode = web
+  line_spacing = 1
+  x = 0
+  width = 444
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 4eee7201-9d79-464e-a8d7-075f7d9a077a1695041688266
+  y = 0
+  alignment = centered
+  height = 244
+}
+
