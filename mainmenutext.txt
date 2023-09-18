@@ -3,9 +3,12 @@ what happens if i have multiple lines in this txt file
 
 |=-Changelog-=|
 
-Fixed fancy menu?
+Added Mods
 
 -old
+Fixed fancy menu?
+
+-older
 Changed the changelog text
 added some mods earlier
 removed cat spam in changelog
