@@ -70,6 +70,11 @@ hash = "14cb523f130dc03bd06e24a448d98ef938c208de6665a4c8e7f26748f910f5de"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7a5c0c62f41a091e99fb6f503c1b096ce5e4070648dde9dab8eddacddbf01a5a"
+metafile = true
+
+[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "5f58c33c989fcd74930522db023d903afe33505d08df754cb5a6e063b713a9c6"
 metafile = true
@@ -190,6 +195,16 @@ hash = "de85b22c5d830870f06c4782cfccac865cd30eba5a68d76f74306ded2f05b215"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "52b3b295d3b52be0d946ad9de4b9fdbbbb4c8d55ab2e5fbc067bde32d6f2bb80"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "92c9cd0fd116f989f183c53fc8d2e1ca963c3178443b2d536778567e87724e52"
 metafile = true
@@ -207,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "d21089dd7d7b1f4b8018354f36662dddda994d37a76a9fa8ed06d9a9fcd8e1d9"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 metafile = true
 
 [[files]]
