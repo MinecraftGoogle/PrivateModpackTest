@@ -3,15 +3,4 @@ what happens if i have multiple lines in this txt file
 
 |=-Changelog-=|
 
-Added Mods
-
--old
-Fixed fancy menu?
-
--older
-Changed the changelog text
-added some mods earlier
-removed cat spam in changelog
-addeed fancy menu
-removed some mods
--
+9/28/2023 Removed most mods
