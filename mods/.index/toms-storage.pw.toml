@@ -1,0 +1,14 @@
+name = "Tom's Simple Storage Mod"
+filename = "toms_storage-1.20-1.6.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/nOSh8UFo/toms_storage-1.20-1.6.4.jar"
+hash-format = "sha512"
+hash = "b96d3528bdc40e9452401ef3d10affaf1829b96f0a9078113870a75d72d5143d6e6e79e7586603a96247a82756258ccd3178ccea40e6c6885be1617533d08df8"
+
+[update]
+[update.modrinth]
+mod-id = "XZNI4Cpy"
+version = "nOSh8UFo"

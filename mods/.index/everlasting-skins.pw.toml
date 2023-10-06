@@ -1,0 +1,14 @@
+name = "Everlasting Skins"
+filename = "EverlastingSkins-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "181d1533f29b5cf90ac9582838141ffd6bd0d06e"
+
+[update]
+[update.curseforge]
+file-id = 4620037
+project-id = 538149

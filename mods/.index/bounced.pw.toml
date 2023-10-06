@@ -1,0 +1,14 @@
+name = "Bounced"
+filename = "bounced-forge-1.20.1-2.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/TbeWf4aA/bounced-forge-1.20.1-2.1.4.jar"
+hash-format = "sha512"
+hash = "8788aadde0e3f72feb89777e8c00aef03cfc45a1e7a563ca94746e8b82457427d936b8bd5ac1d10327f6332ef4066f49da38ca009da0ec886286e1fef8cb3f09"
+
+[update]
+[update.modrinth]
+mod-id = "2mlOZXZr"
+version = "TbeWf4aA"

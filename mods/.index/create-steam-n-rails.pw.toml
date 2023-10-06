@@ -1,0 +1,14 @@
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.5.2+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/E3cqlz5f/Steam_Rails-1.5.2%2Bforge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "ee63ba3374d5f84f2f6d071979766a8a27b0a68c7c184d8967c613974fa0ca1db7a2218bb48541d7e5caebb933d92b4ca5fc196bfa1bbe52ce7d356253ad6196"
+
+[update]
+[update.modrinth]
+mod-id = "ZzjhlDgM"
+version = "E3cqlz5f"

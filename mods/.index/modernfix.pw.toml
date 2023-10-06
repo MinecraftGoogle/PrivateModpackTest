@@ -1,0 +1,14 @@
+name = "ModernFix"
+filename = "modernfix-forge-5.7.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/OxmgvWdr/modernfix-forge-5.7.5%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "e0b6da45b475af1502d023b21a34a7d53c0958ba8cf14fd92b791ca64c765970ee888f72dcf0aca85f884b74b9a846d131615e77be3fcc3b0b42fd69c30cdb22"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "OxmgvWdr"

@@ -1,0 +1,14 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-forge-1.6.4-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/QWDLTMMa/notenoughanimations-forge-1.6.4-mc1.20.jar"
+hash-format = "sha512"
+hash = "32624b2a345d4f4d53b3bf7efc5680f43df09f95d497075fc6d61c806cbd056d76f48e51f05c7e60c4b01885c3239daecb0292616bf39a7d7e0de1d29a76dba8"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "QWDLTMMa"

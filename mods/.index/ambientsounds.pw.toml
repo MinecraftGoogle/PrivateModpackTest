@@ -1,0 +1,14 @@
+name = "AmbientSounds"
+filename = "AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/UhavHRSW/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "19463a20d7b08443e1660e708117334385dc43598208586f5f3254183e53975c1e7b05bee2b780d6e293853daa555848e3443562eb56bfff2fa586b042ab9d13"
+
+[update]
+[update.modrinth]
+mod-id = "fM515JnW"
+version = "UhavHRSW"

@@ -1,0 +1,14 @@
+name = "Konkrete"
+filename = "konkrete_forge_1.6.1-2_MC_1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/9o3SSmd1/konkrete_forge_1.6.1-2_MC_1.20.jar"
+hash-format = "sha512"
+hash = "2d4d243e3d16bd92b397c0b0bb8609372829288c5de1756b15f4d37fb506cdd5455e5696056e4e576a0d588dc6563a9e59194009fe1e981bb71d81a72babac0c"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "9o3SSmd1"
