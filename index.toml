@@ -456,16 +456,6 @@ hash = "569ff1c8790c76ceb032b4168fc1b58a4b425074a984bbd94e2952a5751b30da"
 metafile = true
 
 [[files]]
-file = "mods/emiffect.pw.toml"
-hash = "7d9dd2be09f56c549eac3f6ce779eae5186df4b3aec397f2fa1f32638701a982"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "c4eb01e7a580e11edeb4aa374486499a76977cb9da325e4d684385caedb6d2da"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "83323842bc82b2a6d3940ffbe22fda686f12946d983b264e27f8d99631a85601"
 metafile = true
