@@ -3,10 +3,9 @@ filename = "buildinggadgets2-1.0.5.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "7bcd0ef5a975fd59ff917bca0665da35d8a0cb35"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,10 +3,9 @@ filename = "ftb-library-forge-2001.1.3.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "38855d828fde1b0e037aa711b67cfae57be0d50d"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

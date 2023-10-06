@@ -3,10 +3,9 @@ filename = "PuzzlesLib-v8.0.24-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "69493022734c4e7c4ac6365a2c4fee7baff9affd"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

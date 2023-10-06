@@ -3,10 +3,9 @@ filename = "ftb-chunks-forge-2001.2.2.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "0c8522e9ea77659471bb80cfddb500f29865bef3"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
