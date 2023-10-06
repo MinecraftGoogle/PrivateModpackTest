@@ -3,10 +3,9 @@ filename = "connectivity-1.20.1-4.6.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "31ff7f53207bff41fdeb4af3c6754afd1125038c"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
