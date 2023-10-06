@@ -671,11 +671,6 @@ hash = "7a85432da0d291787a84c88cccb1ebcfa495fa36c665f1a66e904f447a1e7ae8"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "b2e4125c578b99d3f5b2522062998bc77a6bb915d69232a35c9f55ada4d8b40c"
-metafile = true
-
-[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "b7afa93d5f9d8680d106a0845c3df433ad837f93da67d501765134a5eaedcd14"
 metafile = true
