@@ -1,4 +1,4 @@
-name = "Letsplay"
+name = "CreatePack"
 author = "MCGooglesss"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "165690a3df126e52e082e01d0b59bbc6141dc925259d25cf6c958cd8daa6ef04"
+hash = "763f66d1edb2e0e4564ff47a408d2d58927ce2b37a241338bde5486be6472856"
 
 [versions]
-forge = "47.1.3"
 minecraft = "1.20.1"
+neoforge = "47.1.79"
