@@ -341,6 +341,11 @@ hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
+metafile = true
+
+[[files]]
 file = "mods/bounced.pw.toml"
 hash = "58e75d0e87861f05196fe7c752c74d1b85f74b8001108237f4c70174b1625b49"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "82f28744002af1a87779f66a917565e795778fd04a05732367e6e1497d86e0d4"
+metafile = true
+
+[[files]]
+file = "mods/caelum.pw.toml"
+hash = "51ef297f2bbb3d42c517bde3668130c8771f17e70f555336bb2beff8b32815cc"
 metafile = true
 
 [[files]]
@@ -361,8 +371,18 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "c8fab74e564fd6deb61e0d6f16a7b6cd243ec130f1713a59892024920ae5fe3d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "11b85f3ee5ea3203ad4dcf9b929b70216fce0e48fe7979b26561bd390c742f51"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "1e91383a076d170d8d2ff126d8e3edad7534110051438d304827f160f674fe82"
 metafile = true
 
 [[files]]
@@ -436,6 +456,11 @@ hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "aa9d585ab20dab79b3a5bc6d7f633e2b8a4211d3a5982df5c9ede504ef7b0501"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "fd4fb86b3816ca713c5f5aba33951bcf5aacbbf6060b029d01577bb5d8dcc0d9"
 metafile = true
@@ -468,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2ba8d8dc7d8e06957aa1ebaad321d40b627893114bca410fef8249c5313599af"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "0ed3e0cccd8741b2fc78f2db619506f33bf2b5a7a9908f4355b2305b9a429d20"
 metafile = true
 
 [[files]]
@@ -531,6 +561,11 @@ hash = "17f527244a4554e17b767daf2c9046d63c2f56601b5fbab63a8723eee867e0bc"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "30f4a204f4360aee73e914105f2f0c6f555d3e710ada76630e54399f0f919e0b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "258bd5d054b90ba1d8c753ad6f680139a90d26a5210e2effae3cfcbb16f17711"
 metafile = true
@@ -538,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "9d8e2dec3a09d504921db012790eab202273a643f0a27c8edf2b4a23298677e8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "d0ef895e4e7bb88b03a902b43dc38f71700d99af3d45fbe73459416a4fa034f9"
 metafile = true
 
 [[files]]
@@ -573,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f4f62d592cac0ebd618cfad633bd43a38019c44c4e4821ef3d0eb637a3273bbc"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "06443e58d17ec0f72ea6848d22f1ba1cba2bce2b28587b78ac1e78514b8eb559"
 metafile = true
 
 [[files]]
@@ -661,6 +706,11 @@ hash = "7a85432da0d291787a84c88cccb1ebcfa495fa36c665f1a66e904f447a1e7ae8"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "38d8bd7f53e574667c00116c6ab0909960bff128f9f826aa124f0e389de29107"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "b7afa93d5f9d8680d106a0845c3df433ad837f93da67d501765134a5eaedcd14"
 metafile = true
@@ -686,13 +736,28 @@ hash = "896b67223b10b47e65299d2c9c3fa2ef913cb5cd86b805bd8b2704e1bb40f4e0"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3760ada0864cb6935586f1d75ba82fafd937cf5d9ab55d80e635aa2880677249"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b11d50b3bc406267f32d539d6f6deb5cfd2bfc451ba3d585124753aca1c844d7"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "b7e769b4cfa010140b66912d4091a82c2ece606b171f5945b60a8dd170c3ed67"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "c5bc9e9dbc1ae45d8279768d229d4dbdb8f8d00746df2a2e8849cdb520de07ce"
+hash = "27e5a6fa56d4a7ccf792f20b0a0d4d711d7d97913396f08063cf51c1642ec681"
 metafile = true
 
 [[files]]
@@ -721,6 +786,16 @@ hash = "ebb0b9b87fbb1c2c144d4a3c47fe4132e0485881cfe16c732851dd400e3bdf99"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1bfc00546eacc516fef33abcaabce4499f4e8508d56f0ed8e3d55736831acfdd"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
@@ -738,11 +813,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "6678a50ac60c7fbf985207b518b0706e10ac67a7fd4c64586b9b89d24b3379fd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip"
-hash = "d8ad0b1ca8bd9df23b84a29be08c4a00730083ee7d142b0b2c23d0d4bd44ccaf"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip"
-hash = "c689bac26885e817ba2511b47b6418bde840adffba35abd205c3b8f658329c89"
