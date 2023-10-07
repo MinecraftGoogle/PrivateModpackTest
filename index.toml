@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TrashSlotSaveState.json"
+hash = "4485100c62279adcb997fb6ed5118a68c0136daa02171423e78df4be13a2eff9"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -17,12 +21,28 @@ file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
 [[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
 file = "config/buildinggadgets2-common.toml"
 hash = "f25250f321670d26024d9c325694597409494556ed12c3c3500a93d306e6a80e"
 
 [[files]]
+file = "config/caelum-client.toml"
+hash = "408bae05f9f10384bb7314df9008464430363a9fd45e2005060ede63d3312c68"
+
+[[files]]
 file = "config/canary.properties"
 hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
+
+[[files]]
+file = "config/clean_tooltips-client.toml"
+hash = "c0daa36db1f573b1c472586953d24dee4eefee80fe84aeb6b159d6e1522ca714"
+
+[[files]]
+file = "config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/combatroll/client.json5"
@@ -73,6 +93,10 @@ file = "config/cupboard.json"
 hash = "eb7990d46c2afbc5f287b8e6e37ad4b8d9b28f8807e8ca701cc6698084db1307"
 
 [[files]]
+file = "config/doubledoors.json5"
+hash = "41c34d569277e7490c9a67d7adae9e8645ce46f2a9e2cc640d160d6d359b7e36"
+
+[[files]]
 file = "config/dynamiclights.json"
 hash = "7d415771f460158bf3d552e14208f4f4dbced0b7178eac63323c44cb70ad57f2"
 
@@ -101,12 +125,20 @@ file = "config/everlastingskins-common.toml"
 hash = "7c6044f4b415d4c4f94e861353ce4b6442cad22a52f357cf673ebb2668919ba7"
 
 [[files]]
+file = "config/exordium.json"
+hash = "8e42895b993c776975356797d520f808149247a746c13f84d69a68933623734c"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
+
+[[files]]
+file = "config/farsight.json"
+hash = "65a44830dbade81822f0cc212558c5b8f37f0c0ff8bdafa0a6c813b90d6492a9"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -137,8 +169,24 @@ file = "config/ftbbackups2.json"
 hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
 
 [[files]]
+file = "config/gravestone-client.toml"
+hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "b19dee2c49662c61a7899ee5f545fb788015c3c00c8e7ec3401c77efcb6a9008"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "68b44ee49d89b7f07de195c943ba93962638ffd721edbc36425625e955985b36"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -154,11 +202,11 @@ hash = "2ba82bb6a4be2c66cd6d781691b141034ad1782e268429a680b854b3b714a2a0"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "e89c126d2358ab5bb00d4d973883e25cf7c61ac410787a0da56816e51ccb79cb"
+hash = "4beb761c81998908f4ef249afec69b673b4a651e6b0e5a36576747842feb19dc"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "655c5110b47875c4a9f5bf03a9aa2d8362e49885a5bc30698feaa9ea1accf40f"
+hash = "81a8be798117ae0c1b828f4f58b540f6251a69e3382e1a2b97ffb25b5a34993b"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -213,6 +261,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/libipn/demo-config.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
 file = "config/lighty.config"
 hash = "e7d1426cb3fe29dd943b4905050e38aebae516f24b72be718112b3ebec4e39e5"
 
@@ -242,7 +294,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5c029bf4cfea5f01ff8f2b1067edd8fea7f664b032ef5505602553453ddb78c7"
+hash = "9dec021ddf8a02fbbd11038329af6324920c6d302a2e432dba9bdcd931b3b6f0"
 
 [[files]]
 file = "config/overweight_farming-common.toml"
@@ -293,6 +345,18 @@ file = "config/smoothchunk.json"
 hash = "d0b988aa519ffd031e5421091eec1054464f2e29e48781f6274efd977535f574"
 
 [[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
+
+[[files]]
 file = "config/tinyredstone-client.toml"
 hash = "a534c1994d959f53820b3672d77c24a6d2eb1e533b67a6ed8e3debbee8d53021"
 
@@ -307,6 +371,14 @@ hash = "c75302c83bd78b2e502b5d18a44744dedde3243145958d4a4682e14cb14cdbfd"
 [[files]]
 file = "config/torchmaster.toml"
 hash = "8e6a91f152a24b60d2d03ebecb980527249f009382d2548af84e973f1d59c220"
+
+[[files]]
+file = "config/trashcans-common.toml"
+hash = "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "f5dd21c332e0ce0715a0e1cc5fca8967bf01eac5255243ddec30a7e632b94ad1"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -807,4 +879,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6678a50ac60c7fbf985207b518b0706e10ac67a7fd4c64586b9b89d24b3379fd"
+hash = "c968505b0780145a3562efa13ddf21e84ede7374222829e7cc899c0240e9383a"
