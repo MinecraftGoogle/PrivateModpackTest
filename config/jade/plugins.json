@@ -72,5 +72,8 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
+  },
+  "gravestone": {
+    "grave": true
   }
 }
